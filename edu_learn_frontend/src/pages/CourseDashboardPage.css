@@ -1,0 +1,38 @@
+.course-dashboard {
+    display: flex;
+    padding: 20px;
+  }
+  
+  .sidebar {
+    width: 20%;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 10px 0;
+    cursor: pointer;
+  }
+  
+  .course-details {
+    width: 60%;
+    padding: 0 20px;
+  }
+  
+  .progress-section {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
